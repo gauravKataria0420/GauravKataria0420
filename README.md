@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkataria0420&label=Profile%60views&color=0e75b6&style=flat" alt="gauravkataria0420" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravkataria0420" alt="gauravkataria0420" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
-
-
 - 🌱 I’m currently learning **|| MERN Stack ||**
 
 - 📫 How to reach me **gauravkatariya29@gmail.com**
@@ -27,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkataria0420&show_icons=true&locale=en" alt="gauravkataria0420" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkataria0420&" alt="gauravkataria0420" /></p>
+
