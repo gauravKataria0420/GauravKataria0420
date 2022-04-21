@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkataria0420&label=Profile%60views&color=0e75b6&style=flat" alt="gauravkataria0420" /> </p>
 
-- 🌱 I’m currently learning **|| MERN Stack ||**
+- 🌱 currently learning **|| MERN Stack ||**
 
 - 📫 How to reach me **gauravkatariya29@gmail.com**
 
