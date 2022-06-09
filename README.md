@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Kataria</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm <span color="red" >Gaurav Kataria</span></h1>
 <h3 align="center">A passionate enthusiastic React Js developer.</h3>
 
 
