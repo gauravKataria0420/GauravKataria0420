@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kataria</h1>
 <h3 align="center">A passionate enthusiastic React Js developer.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkataria0420&label=Profile%60views&color=0e75b6&style=flat" alt="gauravkataria0420" /> </p>
 
-- 🌱 currently learning **|| MERN Stack ||**
+- 🌱 currently learning 💻 **|| MERN Stack ||**
+- 🧑‍🎓 I Love 🍵 🍕 and flying 🪁
 
 - 📫 How to reach me **gauravkatariya29@gmail.com**
 
@@ -11,6 +13,7 @@
 <p align="left">
 <a href="https://www.facebook.com/vivhan.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaurav kataria" height="30" width="40" /></a>
 <a href="https://instagram.com/ll_gaurav.k_ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ll_gaurav.k_ll" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gaurav-kataria-a02590238/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/344/linkedin.png" alt="ll_gaurav.k_ll" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
